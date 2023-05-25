@@ -6,6 +6,6 @@ const typewriter = new Typewriter(app, {
 });
 
 typewriter
-    .typeString('Soy un "Desarrollador Web FullStack"')
+    .typeString('Soy un Desarrollador Web FullStack')
     .pauseFor(100)
     .start();
