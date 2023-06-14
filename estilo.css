@@ -5,3 +5,10 @@ header{
     text-align: justify;
     line-height: 2em;
 }
+#proyectos .tarjetas{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%,15rem),1fr));
+}
+#formulario{
+    
+}
